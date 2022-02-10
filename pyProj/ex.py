@@ -7,4 +7,4 @@ def fun1(a):
 
 
 test_fun = fun1(4)
-test_fun(7)
+print(test_fun(7))
